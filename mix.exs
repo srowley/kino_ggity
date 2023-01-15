@@ -21,7 +21,7 @@ defmodule KinoGgity.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ggity, "~> 0.4.0"},
+      {:ggity, "~> 0.5.0"},
       {:kino, "~> 0.6.0"}
     ]
   end
